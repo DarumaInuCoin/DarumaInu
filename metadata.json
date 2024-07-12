@@ -1,0 +1,12 @@
+{
+    "name": "OPOS",
+    "symbol": "OPOS",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/DarumaInuCoin/DarumaInu/main/Logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
