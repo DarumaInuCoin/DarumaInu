@@ -1,7 +1,11 @@
 {
     "name": "DAIN",
     "symbol": "DAIN",
-    "description": "Community Coin for animal charities around the World",
+    "description": "Community Coin for animal charities around the World - Git",
+    "extensions": {
+        "website": "https://google.com/",
+        "twitter": "https://twitter.com/something",
+    },
     "image": "https://raw.githubusercontent.com/DarumaInuCoin/DarumaInu/main/Logo.png",
     "attributes": [
       {
